@@ -74,6 +74,6 @@ A tip before watching all the resources : Bitcoin!=Blockchain, that means blockc
 
 # BLOCKCHAIN RESEARCH LAB 
 
-![blockchaincom](https://github.com/Apoorv-cloud/Engineering_Guide/blob/main/BlockChain/Blockchain.png")
+![brl]("https://apoorv-cloud.github.io/Engineering_Guide/BlockChain/Blockchain.png")
 
 
