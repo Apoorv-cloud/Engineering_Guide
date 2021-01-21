@@ -71,7 +71,9 @@ A tip before watching all the resources : Bitcoin!=Blockchain, that means blockc
 
 
 ## To get more insights on Blockchain and and its resources, follow: 
-## BLOCKCHAIN RESEARCH LAB 
-<a href="https://github.com/Apoorv-cloud/Engineering_Guide/blob/main/BlockChain/Blockchain.png" target="blank" alt="Blockchain Research Lab"></a>
+
+# BLOCKCHAIN RESEARCH LAB 
+
+![blockchaincom](https://github.com/Apoorv-cloud/Engineering_Guide/blob/main/BlockChain/Blockchain.png" alt="Blockchain Research Lab)
 
 
