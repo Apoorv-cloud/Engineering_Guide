@@ -75,7 +75,7 @@ A tip before watching all the resources : Bitcoin!=Blockchain, that means blockc
 ## BLOCKCHAIN RESEARCH LAB 
 
 <p align="center">
-<img src="https://apoorv-cloud.github.io/Engineering_Guide/BlockChain/Blockchain.png" width="700" height="175">
+<img src="https://apoorv-cloud.github.io/Engineering_Guide/BlockChain/Blockchain.png" width="700" height="180">
 </p>
 
 
