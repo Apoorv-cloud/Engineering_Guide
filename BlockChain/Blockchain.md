@@ -70,7 +70,7 @@ A tip before watching all the resources : Bitcoin!=Blockchain, that means blockc
 + Sublime text package highlighting for solidity language
 
 
- To get more insights on Blockchain and and its resources, follow: <a src="https://www.brlakgec.in/" alt="Blockchain Research lab"> BLOCKCHAIN RESEARCH LAB </a> 
+ ### To get more insights on Blockchain and and its resources, follow: <a href="https://www.brlakgec.in/" alt="Blockchain Research lab"> BLOCKCHAIN RESEARCH LAB </a> 
 
 <p align="center">
 <img src="https://apoorv-cloud.github.io/Engineering_Guide/BlockChain/Blockchain.png" width="700" height="180">
