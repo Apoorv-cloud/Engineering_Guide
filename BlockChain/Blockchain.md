@@ -75,6 +75,19 @@ A tip before watching all the resources : Bitcoin!=Blockchain, that means blockc
 ## BLOCKCHAIN RESEARCH LAB 
 
 <p align="center">
-<img src="https://apoorv-cloud.github.io/Engineering_Guide/BlockChain/Blockchain.png" width="600" height="160">
+<img src="https://apoorv-cloud.github.io/Engineering_Guide/BlockChain/Blockchain.png" width="600" height="165">
 </p>
+
+
+<p align="center">
+  <a href="https://dev.to/apoorvcloudt" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Blockchain Research Lab" height="30" width="30" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/company/blockchain-research-lab/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Blockchain Research Lab" height="30" width="30" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/brl_akgec/" target="blank">	
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Blockchain Research Lab" height="30" width="30" />
+  </a>&nbsp;&nbsp;&nbsp; </p><br/>
+<br />
 
