@@ -80,8 +80,11 @@ A tip before watching all the resources : Bitcoin!=Blockchain, that means blockc
 
 
 <p align="center">
-  <a href="https://dev.to/apoorvcloudt" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Blockchain Research Lab" height="30" width="30" />
+  <a href="https://medium.com/blockchain-research-lab-akgec" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" alt="Blockchain Research Lab" height="30" width="30" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/BlockchainResearchLab/?ref=br_rs" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" alt="Blockchain Research Lab" height="30" width="30" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/company/blockchain-research-lab/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Blockchain Research Lab" height="30" width="30" />
