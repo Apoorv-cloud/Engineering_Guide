@@ -25,7 +25,7 @@
 + Linux foundation free course on Hyperledger Technologies (includes Fabric): https://training.linuxfoundation.org/training/blockchain-for-business-an-introduction-to-hyperledger-technologies/
 + Paid but worth it Udemy course: https://www.udemy.com/hyperledger/
 + IBM hyperledger fabric study material : https://www.ibm.com/blockchain/hyperledger
-+ really valuable course by linux foundation: https://www.edx.org/course/blockchain-for-business-an-introduction-to-hyperledger-technologies
++ Really valuable course by linux foundation: https://www.edx.org/course/blockchain-for-business-an-introduction-to-hyperledger-technologies
 
 ## Multichain
 + Getting started for developers: https://www.multichain.com/developers/
